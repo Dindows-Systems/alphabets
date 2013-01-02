@@ -1,12 +1,12 @@
   
 <Alphabets Game>
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/blob/master/images/1.JPG)
+![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/1.JPG)
 
 is dependent game upon famous buzz javascript Library for html5 Audio Sound. this game is designed to keep infants in mind, who are in their early age to learn
 alphabets graphically.
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/blob/master/images/2.JPG)
+![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/2.JPG)
 
 <!DOCTYPE html>
 <html>
@@ -34,7 +34,7 @@ alphabets graphically.
     <script src="https://a248.e.akamai.net/assets.github.com/assets/frameworks-eee761b9d5e06efb064aaaf528c44ef8e1601e71.js" type="text/javascript"></script>
     <script src="https://a248.e.akamai.net/assets.github.com/assets/github-69e35ef6c3d5b779e39f65bd04a4e43ff670991e.js" type="text/javascript"></script>
     
-    <link rel='permalink' href='/jaysalvat/buzz/blob/b391453015d2816bee748b3bda839bba10654110/README.md'>
+    <link rel='permalink' href='/jaysalvat/buzz/raw/b391453015d2816bee748b3bda839bba10654110/README.md'>
     <meta property="og:title" content="buzz"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/jaysalvat/buzz"/>
@@ -255,13 +255,13 @@ alphabets graphically.
                 <div class="commitish-item branch-commitish selector-item js-navigation-item js-navigation-target selected">
                   <span class="mini-icon mini-icon-confirm"></span>
                   <h4>
-                      <a href="/jaysalvat/buzz/blob/master/README.md" class="js-navigation-open" data-name="master" rel="nofollow">master</a>
+                      <a href="/jaysalvat/buzz/raw/master/README.md" class="js-navigation-open" data-name="master" rel="nofollow">master</a>
                   </h4>
                 </div>
                 <div class="commitish-item branch-commitish selector-item js-navigation-item js-navigation-target ">
                   <span class="mini-icon mini-icon-confirm"></span>
                   <h4>
-                      <a href="/jaysalvat/buzz/blob/release/README.md" class="js-navigation-open" data-name="release" rel="nofollow">release</a>
+                      <a href="/jaysalvat/buzz/raw/release/README.md" class="js-navigation-open" data-name="release" rel="nofollow">release</a>
                   </h4>
                 </div>
             </div>
@@ -274,37 +274,37 @@ alphabets graphically.
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.5/README.md" class="js-navigation-open" data-name="v1.0.5" rel="nofollow">v1.0.5</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.5/README.md" class="js-navigation-open" data-name="v1.0.5" rel="nofollow">v1.0.5</a>
                     </h4>
                   </div>
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.4/README.md" class="js-navigation-open" data-name="v1.0.4" rel="nofollow">v1.0.4</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.4/README.md" class="js-navigation-open" data-name="v1.0.4" rel="nofollow">v1.0.4</a>
                     </h4>
                   </div>
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.3/README.md" class="js-navigation-open" data-name="v1.0.3" rel="nofollow">v1.0.3</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.3/README.md" class="js-navigation-open" data-name="v1.0.3" rel="nofollow">v1.0.3</a>
                     </h4>
                   </div>
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.2/README.md" class="js-navigation-open" data-name="v1.0.2" rel="nofollow">v1.0.2</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.2/README.md" class="js-navigation-open" data-name="v1.0.2" rel="nofollow">v1.0.2</a>
                     </h4>
                   </div>
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.1/README.md" class="js-navigation-open" data-name="v1.0.1" rel="nofollow">v1.0.1</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.1/README.md" class="js-navigation-open" data-name="v1.0.1" rel="nofollow">v1.0.1</a>
                     </h4>
                   </div>
                   <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
                     <span class="mini-icon mini-icon-confirm"></span>
                     <h4>
-                        <a href="/jaysalvat/buzz/blob/v1.0.0/README.md" class="js-navigation-open" data-name="v1.0.0" rel="nofollow">v1.0.0</a>
+                        <a href="/jaysalvat/buzz/raw/v1.0.0/README.md" class="js-navigation-open" data-name="v1.0.0" rel="nofollow">v1.0.0</a>
                     </h4>
                   </div>
               </div>
@@ -368,7 +368,7 @@ alphabets graphically.
     </div><!-- ./.frame-meta -->
 
     <div class="frames">
-      <div class="frame" data-permalink-url="/jaysalvat/buzz/blob/b391453015d2816bee748b3bda839bba10654110/README.md" data-title="buzz/README.md at master · jaysalvat/buzz · GitHub" data-type="blob">
+      <div class="frame" data-permalink-url="/jaysalvat/buzz/raw/b391453015d2816bee748b3bda839bba10654110/README.md" data-title="buzz/README.md at master · jaysalvat/buzz · GitHub" data-type="blob">
 
         <div id="files" class="bubble">
           <div class="file">
@@ -396,7 +396,7 @@ alphabets graphically.
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
 <a name="buzz-a-javascript-html5-audio-library" class="anchor" href="#buzz-a-javascript-html5-audio-library"><span class="mini-icon mini-icon-link"></span></a>Buzz, a Javascript HTML5 Audio library</h1>
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/blob/master/images/3.JPG)
+![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/3.JPG)
 
 <p>Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade properly on non-modern browsers.</p>
 
