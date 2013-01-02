@@ -3,10 +3,14 @@
 
 ![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/1.JPG)
 
-is dependent game upon famous buzz javascript Library for html5 Audio Sound. this game is designed to keep infants in mind, who are in their early age to learn
-alphabets graphically.
+is dependent game upon famous buzz javascript Library for html5 Audio Sound. 
 
 ![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/2.JPG)
+
+this game is designed to keep infants in mind, who are in their early age to learn
+alphabets graphically.
+
+![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/3.JPG)
 
 <!DOCTYPE html>
 <html>
@@ -395,8 +399,6 @@ alphabets graphically.
   <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
 <a name="buzz-a-javascript-html5-audio-library" class="anchor" href="#buzz-a-javascript-html5-audio-library"><span class="mini-icon mini-icon-link"></span></a>Buzz, a Javascript HTML5 Audio library</h1>
-
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/3.JPG)
 
 <p>Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade properly on non-modern browsers.</p>
 
