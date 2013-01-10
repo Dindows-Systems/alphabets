@@ -17,10 +17,11 @@ buzz.defaults.formats = [ 'ogg', 'mp3' ];
 buzz.defaults.preload = 'metadata';
 
 var games = [
-    { img: 'img/icecream.png', color:'#7FA917', word: 'alphabets!', sound: 'sounds/truck' },
+    { img: 'img/icecream.png', color:'#7FA917', word: 'alphabets !', sound: 'sounds/truck' },
     { img: 'img/elephant.png', color:'#BCC9CC', word: 'elephant', sound: 'sounds/elephant' },
     { img: 'img/gorilla.png', color:'#FF0000', word: 'gorilla', sound: 'sounds/monkey' },
-    { img: 'img/lion.png', color:'#FFBE00', word: 'lion', sound: 'sounds/lion' }
+    { img: 'img/lion.png', color:'#FFBE00', word: 'lion', sound: 'sounds/lion' },
+	{ img: 'img/end.png', color:'#FFBE00', word: 'end !', sound: 'sounds/end' }
 ];
 
 var winSound        = new buzz.sound('sounds/win' ),
